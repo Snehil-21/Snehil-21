@@ -3,11 +3,10 @@
 <p>
   <h3>👋 Hi, I’m Snehil</h3>
   <h3>👀 I’m interested in Web Development, C++ and Python!</h3>
-  <h3>🌱 I’m currently learning MERN Stack!</h3>
+  <h3>🌱 I’m currently learning MERN stack, Data Structures and Algorithms!</h3>
   <h3>💞️ I’m looking to collaborate on NodeJs and MongoDB</h3>
-  <h3>📫 How to reach me : </h3>
-                        <h4>Github: https://github.com/snehil-gupta21</h4> 
-                        <h4>LinkedIn: https://www.linkedin.com/in/snehil-gupta-a083b2195/</h4> 
+  <h3>📫 Contact Me: </h3>
+  <h2><a href="https://www.linkedin.com/in/snehil-gupta-a083b2195/" alt="https://www.linkedin.com/in/snehil-gupta-a083b2195/">LinkedIn</a></h2>
 </p>
 <br>
 
