@@ -32,7 +32,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehil-gupta21&&show_icons=true&title_color=fefefe&icon_color=bb2acf&text_color=f3f3f3&bg_color=000000" alt="Git   Stats" width="500px">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehil-gupta21&&show_icons=true&title_color=0f0f0f&icon_color=bb2acf&text_color=0f000f&bg_color=fff" alt="Git   Stats" width="500px">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehil-gupta21&&show_icons=true&locale=en&layout=compact" alt="Languages Used Stats" width="500px" height="240x">
 
