@@ -32,11 +32,11 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehil-gupta21&&show_icons=true&title_color=0f0f0f&icon_color=bb2acf&text_color=0f000f&bg_color=fff" alt="Git   Stats" width="500px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehil-21&&show_icons=true&title_color=0f0f0f&icon_color=bb2acf&text_color=0f000f&bg_color=fff" alt="Git   Stats" width="500px">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehil-gupta21&&show_icons=true&locale=en&layout=compact" alt="Languages Used Stats" width="500px" height="240x">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Snehil-21&&show_icons=true&locale=en&layout=compact" alt="Languages Used Stats" width="500px" height="240x">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehil-gupta21" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehil-21" alt="GitHub Streak Stats">
 </div>
 <!---
 snehil-gupta21/snehil-gupta21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
